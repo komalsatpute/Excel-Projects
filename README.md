@@ -42,36 +42,28 @@ Extracted month name from the full date
 Used Pivot Tables to answer business questions:
 
 i. Monthly Orders vs Sales 
-
 SUM of Amount,
 COUNT of Order ID,
 Combo chart using monthly data,
 Converted values to millions using format
 
 ii. Men vs Women Purchases
-
 Pie chart showing total sales contribution
 Women: 64%, Men: 36%
 
 iii. Order Status Distribution
 Delivered, Returned, Cancelled, Refunded
-
 Visualized using Pie Chart
 
 iv. Top 5 States by Sales
-
 Used “Top 10 Filter” → customized to Top 5
-
 Maharashtra ranked highest
 
 v. Age vs Gender (Order Count)
-
 Compared teenagers, adults, and seniors by gender
 
 vi. Channel Contribution
-
 Converted to % of grand total
-
 Amazon contributed the highest sales
 
 #### 4. Interactive Dashboard
