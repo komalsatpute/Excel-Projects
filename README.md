@@ -66,7 +66,7 @@ vi. Channel Contribution
 Converted to % of grand total
 Amazon contributed the highest sales
 
-####4. Interactive Dashboard
+#### 4. Interactive Dashboard
 
 Designed the final dashboard sheet with:
 a) Orders vs Sales chart
